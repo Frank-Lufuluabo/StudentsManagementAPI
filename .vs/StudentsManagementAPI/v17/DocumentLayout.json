@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\databaseconnection\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\databaseconnection\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|c:\\users\\user\\source\\repos\\studentsmanagementapi\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{11E10DCC-0758-40A6-A21A-4186C00AFF4B}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 376,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +66,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:24:54.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:21:53.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\DatabaseConnection\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\DatabaseConnection\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\DatabaseConnection\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagement\\DatabaseConnection\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:20:40.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:19:47.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:18:26.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Models\\Course.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:18:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Models\\UserActivity.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\UserActivity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\Models\\UserActivity.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\UserActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:18:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StudentManagement",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentsManagementAPI\\StudentManagement\\StudentManagement.csproj",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
